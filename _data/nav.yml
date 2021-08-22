@@ -1,0 +1,49 @@
+- title: "Cheatsheets"
+  subcategories:
+    - subtitle: "Python"
+      subhref: "/cheatsheets/python.pdf"
+    - subtitle: "Conda"
+      subhref: "/cheatsheets/conda.pdf"
+    - subtitle: "Matplotlib"
+      subhref: "/cheatsheets/matplotlib.pdf"
+    - subtitle: "Pandas"
+      subhref: "/cheatsheets/pandas.pdf"
+    - subtitle: "Seaborn"
+      subhref: "/cheatsheets/seaborn.pdf"
+
+- title: "Links"
+  subcategories:
+    - subtitle: "Piazza"
+      subhref: "https://piazza.com/upenn/fall2020/musa550/home"
+      external: true
+    - subtitle: "Canvas"
+      subhref: "https://canvas.upenn.edu/courses/1533812"
+      external: true
+    - subtitle: "Github"
+      subhref: "https://github.com/MUSA-550-Fall-2020"
+      external: true
+
+- title: "Resources"
+  subcategories:
+    - subtitle: "Software Setup"
+      subhref: "/resources/setup"
+    - subtitle: "Python Resources"
+      subhref: "/resources/python"
+
+- title: "Guides"
+  subcategories:
+    - subtitle: "From Zero to Python"
+      subhref: "/guides/zero-to-python"
+    - subtitle: "Conda User Guide"
+      subhref: "/guides/conda"
+    - subtitle: "Common Conda Issues"
+      subhref: "/guides/conda-issues"
+    - subtitle: "Jupyter User Guide"
+      subhref: "/guides/jupyter"
+
+- title: "Syllabus"
+  subcategories:
+    - subtitle: "Course Info"
+      subhref: "/syllabus/info"
+    - subtitle: "Policies"
+      subhref: "/syllabus/policies"

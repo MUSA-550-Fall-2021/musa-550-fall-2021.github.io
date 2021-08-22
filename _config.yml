@@ -1,0 +1,21 @@
+title: MUSA 550
+author: Nick Hand
+email: nhand@design.upenn.edu
+description: Geospatial Data Science in Python
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username: musa-550-fall-2020
+env_name: musa-550-fall-2020
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections:
+  resources:
+    output: true
+  syllabus:
+    output: true
+  guides:
+    output: true

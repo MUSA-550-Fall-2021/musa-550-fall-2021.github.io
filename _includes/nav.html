@@ -1,0 +1,106 @@
+<style>
+  /* The dropdown container */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 120px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+  /* Add a grey background color to dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .dropdown-content .page-link {
+    margin-right: 0px !important;
+  }
+
+  @media screen and (max-width: 767px) {
+    .trigger-content {
+      display: flex !important;
+      flex-direction: column !important;
+    }
+    .site-nav .page-link {
+      margin-left: 0px !important;
+    }
+    .site-nav {
+      text-align: left !important;
+    }
+  }
+</style>
+
+<nav class="site-nav">
+  <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+  <label for="nav-trigger">
+    <span class="menu-icon">
+      <svg viewBox="0 0 18 15" width="18px" height="15px">
+        <path
+          d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"
+        />
+      </svg>
+    </span>
+  </label>
+
+  <div class="trigger">
+    <div class="trigger-content">
+      {% for nav in site.data.nav %} {% if nav.subcategories != null %}
+      <div class="dropdown">
+        <button class="dropbtn page-link">
+          {{ nav.title }}
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          {% for subcategory in nav.subcategories %} {% if subcategory.external
+          %}
+          <a class="page-link" href="{{ subcategory.subhref }}" target="blank_"
+            >{{ subcategory.subtitle }}</a
+          >
+          {% else %}
+          <a class="page-link" href="{{ site.url }}{{ subcategory.subhref }}"
+            >{{ subcategory.subtitle }}</a
+          >
+          {%- endif -%} {%- endfor -%}
+        </div>
+      </div>
+      {% else %}
+      <a class="page-link" href="{{ site.url }}{{ nav.href }}"
+        >{{ nav.title }}</a
+      >
+      {%- endif -%} {%- endfor -%}
+    </div>
+  </div>
+</nav>

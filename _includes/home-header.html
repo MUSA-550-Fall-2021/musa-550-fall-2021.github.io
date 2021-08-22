@@ -1,0 +1,30 @@
+<header class="site-header">
+
+  <style>
+    .img-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    @media screen and (max-width: 768px) {
+      .img-center {
+        width: 100%;
+      }
+    }
+
+  </style>
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    {% include nav.html %}
+  </div>
+
+  <div style='background-color: #000000'>
+    <img class='img-center' height="400" src="/assets/images/MUSA 550 Logo.png" alt="banner" />
+  </div>
+</header>
