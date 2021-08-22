@@ -6,7 +6,7 @@ layout: home
 ---
 
 Welcome to the course website for MUSA 550, **Geospatial Data Science in
-Python**, taught at the University of Pennsylvania in fall 2020.
+Python**, taught at the University of Pennsylvania in **fall 2021**.
 
 ## Course Description
 
@@ -85,14 +85,14 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">1</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-1" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-1" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Exploratory Data Science in Python</td>
             <td class='dark-border-right'>09/01 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">    
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-1/master?filepath=lecture-1A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-1/master?filepath=lecture-1A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -107,7 +107,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>09/03 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">    
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-1/master?filepath=lecture-1B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-1/master?filepath=lecture-1B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -117,21 +117,21 @@ a.disabled {
                </a>
             </td>
             <td class='dark-border-bottom'>
-               <a href="https://github.com/MUSA-550-Fall-2020/assignment-1" target="blank_">Assign HW #1</a> (required)
+               <a href="https://github.com/MUSA-550-Fall-2021/assignment-1" target="blank_">Assign HW #1</a> (required)
             </td>
          </tr>
          <!-- Week 2A -->
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">2</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-2" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-2" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Data Visualization Fundamentals</td>
             <td class='dark-border-right'>09/08 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-2/master?filepath=lecture-2A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-2/master?filepath=lecture-2A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -146,7 +146,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>09/10 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">    
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-2/master?filepath=lecture-2B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-2/master?filepath=lecture-2B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -156,21 +156,21 @@ a.disabled {
                </a>
             </td>
             <td class='dark-border-bottom'>
-               <a href="https://github.com/MUSA-550-Fall-2020/assignment-2" target="blank_">Assign HW #2</a> (required)
+               <a href="https://github.com/MUSA-550-Fall-2021/assignment-2" target="blank_">Assign HW #2</a> (required)
             </td>
          </tr>
         <!-- Week 3A -->
         <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">3</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-3" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-3" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Geospatial Data Analysis and GeoPandas</td>
             <td class='dark-border-right'>09/15 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-3/master?filepath=lecture-3A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-3/master?filepath=lecture-3A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -185,7 +185,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>09/17 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">    
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-3/master?filepath=lecture-3B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-3/master?filepath=lecture-3B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -200,14 +200,14 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">4</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-4" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-4" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>More Interactive Data Viz, Working with Raster Datasets</td>
             <td class='dark-border-right'>09/22 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-4/master?filepath=lecture-4A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-4/master?filepath=lecture-4A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -222,7 +222,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>09/24 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">    
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-4/master?filepath=lecture-4B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-4/master?filepath=lecture-4B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -231,20 +231,20 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2020/assignment-3" target="blank_">Assign HW #3</a> (required)</td>
+            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-3" target="blank_">Assign HW #3</a> (required)</td>
          </tr>
          <!-- Week 5A -->
         <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">5</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-5" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-5" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Getting Data Part 1: Working with APIs</td>
             <td class='dark-border-right'>09/29 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-5/master?filepath=lecture-5A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-5/master?filepath=lecture-5A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -259,7 +259,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>10/01 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">    
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-5/master?filepath=lecture-5B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-5/master?filepath=lecture-5B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -274,14 +274,14 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">6</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-6" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-6" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Getting Data Part 2: Web Scraping</td>
             <td class='dark-border-right'>10/06 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-6/master?filepath=lecture-6A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-6/master?filepath=lecture-6A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -296,7 +296,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>10/08 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-6/master?filepath=lecture-6B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-6/master?filepath=lecture-6B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -305,20 +305,20 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2020/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
+            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
          </tr>
          <!-- Week 7A -->
         <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">7</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-7" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-7" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Analyzing and Visualizing Large Datasets</td>
             <td class='dark-border-right'>10/13 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-7/master?filepath=lecture-7A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-7/master?filepath=lecture-7A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -345,14 +345,14 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">8</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a  href="https://github.com/MUSA-550-Fall-2020/week-8" target='blank_'>
+               <a  href="https://github.com/MUSA-550-Fall-2021/week-8" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Case Study: Advanced Raster Analysis</td>
             <td class='dark-border-right'>10/20 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-8/master?filepath=lecture-8A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-8/master?filepath=lecture-8A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -367,7 +367,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>10/22 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-8/master?filepath=lecture-8B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-8/master?filepath=lecture-8B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -376,20 +376,20 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2020/assignment-5" target="blank_">Assign HW #5</a> (optional)</td>
+            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-5" target="blank_">Assign HW #5</a> (optional)</td>
          </tr>
          <!-- Week 9A -->
         <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">9</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-9" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-9" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Case Study: OpenStreetMap, Urban Networks, and Interactive Web Maps	</td>
             <td class='dark-border-right'>10/27 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-9/master?filepath=lecture-9A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-9/master?filepath=lecture-9A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -404,7 +404,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>10/29 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-9/master?filepath=lecture-9B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-9/master?filepath=lecture-9B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -419,14 +419,14 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">10</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-10" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-10" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Case Study: Clustering Analysis in Python</td>
             <td class='dark-border-right'>11/03 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-10/master?filepath=lecture-10A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-10/master?filepath=lecture-10A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -441,7 +441,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>11/05 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-10/master?filepath=lecture-10B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-10/master?filepath=lecture-10B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -450,20 +450,20 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2020/assignment-6" target="blank_">Assign HW #6</a> (optional)</td>
+            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-6" target="blank_">Assign HW #6</a> (optional)</td>
          </tr>
          <!-- Week 11A -->
         <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">11</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-11" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-11" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Predictive Modeling Part 1: Home Prices in Philadelphia</td>
             <td class='dark-border-right'>11/10 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-11/master?filepath=lecture-11A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-11/master?filepath=lecture-11A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -478,7 +478,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>11/12 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a  href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-11/master?filepath=lecture-11B.ipynb" target='blank_'>
+               <a  href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-11/master?filepath=lecture-11B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -493,14 +493,14 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">12</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-12" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-12" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Predictive Modeling Part 2: Space/time Rideshare Demand</td>
             <td class='dark-border-right'>11/17 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-12/master?filepath=lecture-12A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-12/master?filepath=lecture-12A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -515,7 +515,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>11/19 (Th)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a  href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-12/master?filepath=lecture-12B.ipynb" target='blank_'>
+               <a  href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-12/master?filepath=lecture-12B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -524,20 +524,20 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2020/assignment-7" target="blank_">Assign HW #7</a> (required)</td>
+            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-7" target="blank_">Assign HW #7</a> (required)</td>
          </tr>
          <!-- Week 13A -->
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">13</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-13" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-13" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>From Notebooks to the Web: Github Pages, Web Servers, and Dash</td>
             <td class='dark-border-right'>11/24 (Tu)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-13/master?filepath=lecture-13A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-13/master?filepath=lecture-13A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -552,7 +552,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>12/01 (Tu)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-13/master?filepath=lecture-13B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-13/master?filepath=lecture-13B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -567,14 +567,14 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">14</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a href="https://github.com/MUSA-550-Fall-2020/week-14" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-14" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>From Notebooks to the Web: Dashboarding with Panel and the HoloViz Ecosystem</td>
             <td class='dark-border-right'>12/03 (Th)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-14/master?filepath=lecture-14A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-14/master?filepath=lecture-14A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
@@ -589,7 +589,7 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>12/08 (Tu)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2020/week-14/master?filepath=lecture-14B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-14/master?filepath=lecture-14B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
