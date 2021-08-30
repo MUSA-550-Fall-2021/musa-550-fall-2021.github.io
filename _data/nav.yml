@@ -14,13 +14,13 @@
 - title: "Links"
   subcategories:
     - subtitle: "Piazza"
-      subhref: "https://piazza.com/upenn/fall2020/musa550/home"
+      subhref: "https://piazza.com/upenn/fall2021/musa550/home"
       external: true
     - subtitle: "Canvas"
       subhref: "https://canvas.upenn.edu/courses/1533812"
       external: true
     - subtitle: "Github"
-      subhref: "https://github.com/MUSA-550-Fall-2020"
+      subhref: "https://github.com/MUSA-550-Fall-2021"
       external: true
 
 - title: "Resources"
