@@ -29,21 +29,13 @@ please list the members of your group at the top of your assignment.
 There are a number of ongoing situations in the world that may take precedence
 over the course work. If you are experiencing any difficulties outside the
 course, please [contact me](mailto:nhand@design.upenn.edu) and accommodations can be made.
+Similarly, if you are having any difficulties with the course schedule,
+attending lectures, or similar, please let us know.
 
-The remote learning environment is also an unprecedented situation. If you
-are having any difficulties with the course schedule, attending lectures, or similar,
-please let us know.
-
-## Expectations for Remote Lectures
-
-Remote lectures will be via Zoom. Students will also be learning in different time zones.
-With this in mind, the following are guidelines for attending lectures:
-
-- Video is encouraged but certainly not required
-- If not speaking, please mute yourself to limit feedback and echoes
-- To ask a question, students can either "raise their hand" via the Zoom
-  functionality, send the question via the chat functionality, or simply
-  interrupt and ask during a pause
+The latest information related to COVID-19 public health guidance can be found on the
+[University's website](https://coronavirus.upenn.edu/content/public-health-guidance).
+Importantly, students and faculty are required to upload proof of vaccination and wear masks
+while indoors.
 
 ## Academic Integrity
 

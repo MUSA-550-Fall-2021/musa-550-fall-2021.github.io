@@ -4,45 +4,43 @@ title: Course Info
 permalink: /syllabus/info/
 ---
 
-{{site.title}} will be held remotely during fall 2020. Information regarding
+{{site.title}} will be held on campus during fall 2021. Information regarding
 lectures, office hours, assignments, and grading can be found below.
 
 ## Class
 
-- Tuesday & Thursdays, 6:00 PM to 7:30 PM
-- Lectures will be via Zoom — calendar invites to lectures can be found on the
-  [course's Canvas page](https://canvas.upenn.edu/courses/1533812)
-- Lectures will be recorded and available on Canvas
+- Monday & Wednesday, 7:00 PM to 8:30 PM
+- Fisher-Bennett Hall, Room 201
 
 ## Contact Info
 
 - **Instructor**: Nick Hand, nhand@design.upenn.edu
-- **Teaching Assistant**: Eugene Chong, echong91@upenn.edu
+- **Teaching Assistant**: Stella Li, xintianl@design.upenn.edu
 
 ## Office Hours
 
-Office hours will use Zoom and will be by appointment — you should be able to
+Office hours will held remotely via Zoom and will be by appointment — you should be able to
 sign up for 1 (or more) 15-minute time slot via the Canvas calendar. Zoom
 information for each session is available in the meeting details.
 
 **Nick:**
 
-7:30am-9am and 6:00pm-7:30pm on Tuesdays
+TBD
 
-**Eugene:**
+**Stella:**
 
-10:30am - 12:30pm on Thursdays
+TBD
 
 ## Course Websites
 
-- Main website: [https://musa-550-fall-2020.github.io](https://musa-550-fall-2020.github.io)
-- Github: [https://github.com/MUSA-550-Fall-2020](https://github.com/MUSA-550-Fall-2020)
-- Piazza: [https://piazza.com/upenn/fall2020/musa550/home](https://piazza.com/upenn/fall2020/musa550/home)
+- Main website: [https://musa-550-fall-2021.github.io](https://musa-550-fall-2021.github.io)
+- Github: [https://github.com/MUSA-550-Fall-2021](https://github.com/MUSA-550-Fall-2021)
+- Piazza: [https://piazza.com/upenn/fall2021/musa550/home](https://piazza.com/upenn/fall2021/musa550/home)
 - Canvas: [https://canvas.upenn.edu/courses/1533812](https://canvas.upenn.edu/courses/1533812)
 
 We will use Piazza for questions related to lecture materials and assignments,
-while Canvas will be used for hosting recorded lectures and calendar invites for
-Zoom lectures. The course's Github page will have repositories for each week's
+while Canvas will be used for signing up for office hours and tracking grades.
+The course's Github page will have repositories for each week's
 lectures as well as assignments.
 
 ## Format
@@ -67,7 +65,7 @@ the methods used in each step of the data science process (collection, analysis,
 and visualization).
 
 For more details on the final project, see [the Github
-repository](https://github.com/MUSA-550-Fall-2020/final-project).
+repository](https://github.com/MUSA-550-Fall-2021/final-project).
 
 ## Grading
 
@@ -84,5 +82,5 @@ required. Late homework will be accepted but penalized.
 This course relies on use of Python and various related packages and for
 geospatial topics. All software is open-source and freely available. The course
 will require a working installation of Python on your local computer. See the
-[Software Setup Guide](/setup) for instructions on how to setup your computer
-for use in this course.
+[Software Setup Guide](https://musa-550-fall-2021.github.io/setup) for
+instructions on how to setup your computer for use in this course.
