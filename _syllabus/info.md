@@ -36,7 +36,7 @@ TBD
 - Main website: [https://musa-550-fall-2021.github.io](https://musa-550-fall-2021.github.io)
 - Github: [https://github.com/MUSA-550-Fall-2021](https://github.com/MUSA-550-Fall-2021)
 - Piazza: [https://piazza.com/upenn/fall2021/musa550/home](https://piazza.com/upenn/fall2021/musa550/home)
-- Canvas: [https://canvas.upenn.edu/courses/1533812](https://canvas.upenn.edu/courses/1533812)
+- Canvas: [https://canvas.upenn.edu/courses/1614060](https://canvas.upenn.edu/courses/1614060)
 
 We will use Piazza for questions related to lecture materials and assignments,
 while Canvas will be used for signing up for office hours and tracking grades.
