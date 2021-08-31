@@ -604,3 +604,5 @@ a.disabled {
 
 </table>
 </div>
+
+**Note:** The schedule for lectures and assignments is tentative and subject to change.
