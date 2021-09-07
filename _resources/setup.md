@@ -47,7 +47,7 @@ Full installation instructions are available here:
 
 #### A Note on Python 2 vs 3
 
-We will use Python 3 in this course (version 3.7 to be exact).
+We will use Python 3 in this course (version 3.8 to be exact).
 
 The adoption of Python 3, first released in 2008, was very slow, and many users still choose to use Python 2. Python 3 has a lot of great new features, and beginning in 2019, new releases for the majority of the widely-used Python packages no longer support Python 2.
 
