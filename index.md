@@ -170,7 +170,7 @@ a.disabled {
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Geospatial Data Analysis and GeoPandas</td>
             <td class='dark-border-right'>09/20 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-3/main?urlpath=/tree/lecture-3A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-3/HEAD?urlpath=/tree/lecture-3A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
