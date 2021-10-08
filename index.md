@@ -242,7 +242,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Getting Data Part 1: Working with APIs</td>
-            <td class='dark-border-right'>09/29 (Wed)</td>
+            <td class='dark-border-right'>10/04 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-5/main?urlpath=/tree/lecture-5A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -257,7 +257,7 @@ a.disabled {
         </tr>
         <!-- Week 5B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>10/04 (Mon)</td>
+            <td class='dark-border-right'>10/06 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">    
                <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-5/main?urlpath=/tree/lecture-5B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -279,7 +279,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Getting Data Part 2: Web Scraping</td>
-            <td class='dark-border-right'>10/06 (Wed)</td>
+            <td class='dark-border-right'>10/11 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-6/main?urlpath=/tree/lecture-6A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -294,7 +294,7 @@ a.disabled {
         </tr>
         <!-- Week 6B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>10/11 (Mon)</td>
+            <td class='dark-border-right'>10/13 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-6/main?urlpath=/tree/lecture-6B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -316,7 +316,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Analyzing and Visualizing Large Datasets</td>
-            <td class='dark-border-right'>10/13 (Wed)</td>
+            <td class='dark-border-right'>10/18 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-7/main?urlpath=/tree/lecture-7A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -331,7 +331,7 @@ a.disabled {
         </tr>
         <!-- Week 7B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>10/18 (Mon)</td>
+            <td class='dark-border-right'>10/20 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
             </td>
             <td class="dark-border-bottom dark-border-right center">
@@ -350,7 +350,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Case Study: Advanced Raster Analysis</td>
-            <td class='dark-border-right'>10/20 (Wed)</td>
+            <td class='dark-border-right'>10/25 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-8/main?urlpath=/tree/lecture-8A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -365,7 +365,7 @@ a.disabled {
         </tr>
         <!-- Week 8B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>10/25 (Mon)</td>
+            <td class='dark-border-right'>10/27 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-8/main?urlpath=/tree/lecture-8B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -387,7 +387,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Case Study: OpenStreetMap, Urban Networks, and Interactive Web Maps	</td>
-            <td class='dark-border-right'>10/27 (Wed)</td>
+            <td class='dark-border-right'>11/01 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-9/main?urlpath=/tree/lecture-9A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -402,7 +402,7 @@ a.disabled {
         </tr>
         <!-- Week 9B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>11/01 (Mon)</td>
+            <td class='dark-border-right'>11/03 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-9/main?urlpath=/tree/lecture-9B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -424,7 +424,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Case Study: Clustering Analysis in Python</td>
-            <td class='dark-border-right'>11/03 (Wed)</td>
+            <td class='dark-border-right'>11/08 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-10/main?urlpath=/tree/lecture-10A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -439,7 +439,7 @@ a.disabled {
         </tr>
         <!-- Week 10B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>11/08 (Mon)</td>
+            <td class='dark-border-right'>11/10 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-10/main?urlpath=/tree/lecture-10B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -461,7 +461,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Predictive Modeling Part 1: Home Prices in Philadelphia</td>
-            <td class='dark-border-right'>11/10 (Wed)</td>
+            <td class='dark-border-right'>11/15 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-11/main?urlpath=/tree/lecture-11A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -476,7 +476,7 @@ a.disabled {
         </tr>
         <!-- Week 11B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>11/15 (Mon)</td>
+            <td class='dark-border-right'>11/17 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-11/main?urlpath=/tree/lecture-11B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -498,7 +498,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Predictive Modeling Part 2: Space/time Rideshare Demand</td>
-            <td class='dark-border-right'>11/17 (Wed)</td>
+            <td class='dark-border-right'>11/22 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-12/main?urlpath=/tree/lecture-12A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -513,7 +513,7 @@ a.disabled {
         </tr>
         <!-- Week 12B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>11/22 (Mon)</td>
+            <td class='dark-border-right'>11/29 (Mon)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-12/main?urlpath=/tree/lecture-12B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -535,7 +535,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>From Notebooks to the Web: Github Pages, Web Servers, and Dash</td>
-            <td class='dark-border-right'>11/29 (Mon)</td>
+            <td class='dark-border-right'>12/01 (Wed)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-13/main?urlpath=/tree/lecture-13A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -550,7 +550,7 @@ a.disabled {
         </tr>
         <!-- Week 13B -->
          <tr class="dark-border-bottom">
-            <td class='dark-border-right'>12/01 (Wed)</td>
+            <td class='dark-border-right'>12/06 (Mon)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-13/main?urlpath=/tree/lecture-13B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -572,7 +572,7 @@ a.disabled {
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>From Notebooks to the Web: Dashboarding with Panel and the HoloViz Ecosystem</td>
-            <td class='dark-border-right'>12/06 (Mon)</td>
+            <td class='dark-border-right'>12/08 (Wed)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-14/main?urlpath=/tree/lecture-14A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
@@ -586,7 +586,7 @@ a.disabled {
             <td>Final project proposal due</td>
         </tr>
         <!-- Week 14B -->
-         <tr class="dark-border-bottom">
+<!--          <tr class="dark-border-bottom">
             <td class='dark-border-right'>12/08 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-14/main?urlpath=/tree/lecture-14B.ipynb" target='blank_'>
@@ -599,7 +599,7 @@ a.disabled {
                </a>
             </td>
             <td></td>
-         </tr>
+         </tr> -->
     </tbody>
 
 </table>
