@@ -305,7 +305,7 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td class='dark-border-bottom'><a class="disabled" href="https://github.com/MUSA-550-Fall-2021/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
          </tr>
          <!-- Week 7A -->
         <tr>
@@ -327,7 +327,7 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a class="disabled" href="https://github.com/MUSA-550-Fall-2021/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
+            <td></td>
         </tr>
         <!-- Week 7B -->
          <tr class="dark-border-bottom">
