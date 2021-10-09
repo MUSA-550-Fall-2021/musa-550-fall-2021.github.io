@@ -231,7 +231,7 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-3" target="blank_">Assign HW #3</a> (required)</td>
+            <td></td>
          </tr>
          <!-- Week 5A -->
         <tr>
@@ -253,7 +253,7 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-3" target="blank_">Assign HW #3</a> (required)</td>
         </tr>
         <!-- Week 5B -->
          <tr class="dark-border-bottom">
@@ -274,19 +274,19 @@ a.disabled {
          <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">6</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a class="disabled" href="https://github.com/MUSA-550-Fall-2021/week-6" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-6" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Getting Data Part 2: Web Scraping</td>
             <td class='dark-border-right'>10/11 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-6/main?urlpath=/tree/lecture-6A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-6/main?urlpath=/tree/lecture-6A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
             <td class="dark-border-right center">
-               <a class="disabled" href="/slides/lecture-6A.html" target='blank_'>
+               <a  href="/slides/lecture-6A.html" target='blank_'>
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
@@ -305,7 +305,7 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a class="disabled" href="https://github.com/MUSA-550-Fall-2021/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
+            <td></td>
          </tr>
          <!-- Week 7A -->
         <tr>
@@ -327,7 +327,7 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td></td>
+            <td class='dark-border-bottom'><a class="disabled" href="https://github.com/MUSA-550-Fall-2021/assignment-4" target="blank_">Assign HW #4</a> (optional)</td>
         </tr>
         <!-- Week 7B -->
          <tr class="dark-border-bottom">
