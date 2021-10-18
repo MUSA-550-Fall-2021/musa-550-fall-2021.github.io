@@ -311,19 +311,19 @@ a.disabled {
         <tr>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">7</td>
             <td rowspan=2 class="dark-border-bottom dark-border-right center">
-               <a class="disabled" href="https://github.com/MUSA-550-Fall-2021/week-7" target='blank_'>
+               <a href="https://github.com/MUSA-550-Fall-2021/week-7" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
             <td rowspan=2 class='dark-border-bottom dark-border-right'>Analyzing and Visualizing Large Datasets</td>
             <td class='dark-border-right'>10/18 (Mon)</td>
             <td class='dark-border-right' style="min-width: 110px">
-               <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-7/main?urlpath=/tree/lecture-7A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-7/main?urlpath=/tree/lecture-7A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
             <td class="dark-border-right center">
-               <a class="disabled" href="/slides/lecture-7A.html" target='blank_'>
+               <a href="/slides/lecture-7A.html" target='blank_'>
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
@@ -333,6 +333,9 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>10/20 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
+               <a class='disabled' href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-7/main?urlpath=/tree/lecture-7B.ipynb" target='blank_'>
+                  <img src="https://mybinder.org/badge_logo.svg">
+               </a>
             </td>
             <td class="dark-border-bottom dark-border-right center">
                <a class="disabled" href="/slides/lecture-7B.html" target='blank_'>
