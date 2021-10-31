@@ -529,13 +529,13 @@ a.disabled {
          </tr>
          <!-- Week 13A -->
          <tr>
-            <td rowspan=2 class="dark-border-bottom dark-border-right center">13</td>
-            <td rowspan=2 class="dark-border-bottom dark-border-right center">
+            <td class="dark-border-bottom dark-border-right center">13</td>
+            <td class="dark-border-bottom dark-border-right center">
                <a class="disabled" href="https://github.com/MUSA-550-Fall-2021/week-13" target='blank_'>
                   <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
                </a>
             </td>
-            <td rowspan=2 class='dark-border-bottom dark-border-right'>From Notebooks to the Web: Github Pages and Web Servers</td>
+            <td class='dark-border-bottom dark-border-right'>From Notebooks to the Web: Github Pages and Web Servers</td>
             <td class='dark-border-right'>12/01 (Wed)</td>
             <td class='dark-border-right' style="min-width: 110px">
                <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-13/main?urlpath=/tree/lecture-13A.ipynb" target='blank_'>
