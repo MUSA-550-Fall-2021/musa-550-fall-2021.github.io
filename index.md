@@ -584,7 +584,7 @@ a.disabled {
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'></td>
+            <td class='dark-border-bottom'>Final project proposal due</td>
          </tr>
     </tbody>
 
