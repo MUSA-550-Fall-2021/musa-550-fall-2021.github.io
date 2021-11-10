@@ -442,16 +442,16 @@ a.disabled {
          <tr class="dark-border-bottom">
             <td class='dark-border-right'>11/10 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-10/main?urlpath=/tree/lecture-10B.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-10/main?urlpath=/tree/lecture-10B.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
             <td class="dark-border-bottom dark-border-right center">
-               <a class="disabled" href="/slides/lecture-10B.html" target='blank_'>
+               <a  href="/slides/lecture-10B.html" target='blank_'>
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
-            <td class='dark-border-bottom'><a class="disabled" href="https://github.com/MUSA-550-Fall-2021/assignment-6" target="blank_">Assign HW #6</a> (optional)</td>
+            <td class='dark-border-bottom'><a href="https://github.com/MUSA-550-Fall-2021/assignment-6" target="blank_">Assign HW #6</a> (optional)</td>
          </tr>
          <!-- Week 11A -->
         <tr>
