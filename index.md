@@ -538,12 +538,12 @@ a.disabled {
             <td class='dark-border-bottom dark-border-right'>From Notebooks to the Web: Github Pages and Web Servers</td>
             <td class='dark-border-bottom dark-border-right'>12/01 (Wed)</td>
             <td class='dark-border-bottom dark-border-right' style="min-width: 110px">
-               <a class="disabled" href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-13/main?urlpath=/tree/lecture-13A.ipynb" target='blank_'>
+               <a href="https://mybinder.org/v2/gh/MUSA-550-Fall-2021/week-13/main?urlpath=/tree/lecture-13A.ipynb" target='blank_'>
                   <img src="https://mybinder.org/badge_logo.svg">
                </a>
             </td>
             <td class="dark-border-bottom dark-border-right center">
-               <a class="disabled" href="/slides/lecture-13A.html" target='blank_'>
+               <a href="/slides/lecture-13A.html" target='blank_'>
                   <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
                </a>
             </td>
